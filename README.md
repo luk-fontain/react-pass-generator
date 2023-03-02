@@ -1,2 +1,2 @@
 # react-pass-generator
-React App Pasword Generator
+React App Password Generator
